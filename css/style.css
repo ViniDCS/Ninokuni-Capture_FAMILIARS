@@ -4,7 +4,9 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #212529;
+    /*color: #212529;*/
+    
+    background: url("../images/Background/background.jpg");
 }
 
 .container {
@@ -31,12 +33,14 @@ body {
 
 /*---- Menu ----*/
 .site-header {
-    background-color: rgba(0, 0, 0, .85);
+    width: 100%;
+    background: url("../images/Background/B_Superior02.jpg") no-repeat;
+    /*background-color: rgba(0, 0, 0, .85);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
-    backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);*/
 }
 .site-header a {
-    color: #8e8e8e;
+    color: #2c2c2c;
     transition: color .15s ease-in-out;
 }
 .py-1 {
@@ -82,14 +86,21 @@ body {
 
 .barra_inf {
     padding: 0;
-    width: auto;
+    /*width: auto;*/
     height: 115px;
     
     background-color: blueviolet;
 }
 
 /*---- Barras latetrais ----*/
-.laterais {
+.lateral_esquerda {
+    width: 320px;
+    background: url("../images/Background/Lateral_Esquerda.jpg") repeat-y;
+}
+
+.lateral_direita {
+    width: 320px;
+    background: url("../images/Background/Lateral_Direita.jpg") repeat-y;
     background-color: green;
 }
 /*---- Galeria ----*/

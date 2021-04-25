@@ -1,22 +1,16 @@
->**imagem Logo jogo**
-![Editing Web](ativos/Daco_3300705.png)
-# Ninokuni-Capture_FAMILIARS
+![Editing Web](ativos/ninokuni_logo.png)
+<h1 align="center">Ninokuni-Capture_FAMILIARS</h1>
 
 <h4 align="center"> 
 	🚧  🚀 Em construção...  🚧
 </h4>
 
 ### 💻 Sobre o projeto
-Uma Ferramenta simples em HTML  para baixar ajudando visualmente o jogador a decidir quais criaturas capturar e a organizar o que já está capturado no game "Nino Kuni".
+Uma Ferramenta simples em HTML para baixar ajudando visualmente o jogador a decidir quais criaturas capturar e a organizar o que já está capturado neste game.
 
 Página simples criada com opções para que o jogador possa decidir o que fazer com cada "FAMILIARS" como:
 >**opções "rádio"**
->> *VERDE=*
->>A qual a criatura encontra-se capturada.
->>*AMARELO=*
->>Para um interesse em capturar.
->>*VERMELHO=*
->>Para aqueles que não deseja.
+>> *VERDE=* A qual a criatura encontra-se capturada. <br> *AMARELO=* Para um interesse em capturar. <br> *VERMELHO=* Para aqueles que não deseja.
 
 Cada imagem de criatura, clicando sob ela o mostrara suas evoluções.
  
@@ -37,11 +31,11 @@ Cada imagem de criatura, clicando sob ela o mostrara suas evoluções.
 
 ### 19/04/2021 - Subindo o rascunho da página inicial
 Página inicial com "barra de menu", "conteúdo no meio" com: barras laterais para criar um espaço, títulos para âncoras, retângulos que serão alterados por imagens com opções e no final da página o rodapé ainda não definido o que será.
-> **imagem representação**
+![Editing Web](ativos/Captura de tela 2021-04-19 184121.jpg)
 
 ### 20/04/2021 - Subindo a página de Localização
 Página de rascunho para a sequência do projeto.
->**imagem representação**
+![Editing Web](ativos/Captura de tela 2021-04-19 190008.jpg)
 
 ### Pré-requisitos
 Há rever.
